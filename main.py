@@ -21,4 +21,6 @@
         <li><a href="{% url 'user_passage' %}">查看用户信息</a></li>
 	</div>
 </body>
+
+
 </html>
